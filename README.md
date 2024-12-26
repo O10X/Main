@@ -1,20 +1,11 @@
-# Welcome to the O10X Kodi Arcive
+# Welcome to the O10X Kodi Add-on Repository 
 
-This Repo has the Final Install Files for Fen and Fen-Light with the RD and AD Fixes (and additonal Debrid Providers for Fen Lite) In addition it has the unoffical Update for Seren 
+This File Repository has Two Main Purposes 
+1) Making my Life Easier; Have all the files I might require when Configuring a New Kodi Installation
+2) For Freinds and Family to Reference, to repair there own setups (IE Fen Quits working, but umbrella is still working.. Reference this to Install Umbrella when I'm too busy (or don't want to) walk them threw configuring it over the phone)
 
-I Might Add installers for POV and Umbrella, but as there repository is still in existatance Please use the Repository File, as you will automatically update that way.
+In Some Cases I have both the Repository and the Plugin zip file listed, you should always use the Repository unless I tell you differently or the Repository doesn't connect.. if you install the Add-on zip directly it will not auto-update (unless they have there own updater built in (fen-lite) for example
 
-Repository Files that I find Useful IE Umbrella, POV, Cocoscrapers, Nixgates, etc are also added here as I need them
-
-Enjoy 
-
-Kodi Repo Address https://o10x.github.io/Main
-
-Real Debrid Affiliate Link
-http://real-debrid.com/?id=3366841
-
-Torbox.app Referral  Link
-https://torbox.app/subscription?referral=4be30ad0-df54-4034-a1c9-7800dc998946
 
 # Prepping Kodi/Fresh Install
 If you haven't Done Anything in Kodi, Start Here
@@ -22,12 +13,38 @@ If you haven't Done Anything in Kodi, Start Here
 2) Player --> Language Adjust Prefered Audio language and Prefered subtitle language ..
 3) System --> Add-ons --> Enable Unknown sources
 4) File Manager-- > Add source --> Enter https://o10x.github.io/Main
+
+Optional (Needed for Fen, Fen-lite, Umbrella and others)
 5) Addons --> Install from Zip File --> Main --> repository.cocoscrapers-x.x.x.zip
 6) Install from Repository --> Cocoscrapers Repository --> Program Addons --> Cocoscrapers Module
 
-# How To Install Fen-Lite
+
+# How To Install Fen-Lite (Real-Debrid and Torbox.App Supported)
+*** The Authour of this Add-on Has Retired(or keeps saying he is), this is probably the Last Version ***
 1) Enter Settings (Cog Wheel)
 2) Addons --> Install from Zip File --> Main --> plugin.video.fenlight-x.x.xx.zip
-3) Return to main screen (back buttion) Add-ons --> Fen Lite -- Tools --> Settings --> Accounts --> External Scrapers (Enable)
+3) Return to main screen (back buttion) Add-ons --> Fen Lite --> Tools --> Settings --> Accounts --> External Scrapers (Enable)
 8) Choose External Scrapers Module ---> Cocoscrapers Module
 9) Enable and Connect your Debrid Provider (ie Real-Debrid)
+
+
+# How To Install Fen (Real-Debrid Supported)
+*** The Authour of this Add-on Has Retired(or keeps saying he is), this is probably the Last Version ***
+1) Enter Settings (Cog Wheel)
+2) Addons --> Install from Zip File --> Main --> plugin.video.fen-x.x.xx.zip
+3) Return to main screen (back buttion) Add-ons --> Fen --> Tools --> Settings --> Accounts --> External Scrapers (Enable)
+8) Choose External Scrapers Module ---> Cocoscrapers Module
+9) Enable and Connect your Debrid Provider (ie Real-Debrid)
+
+# Repository Links (Offical + Personal/Forks)
+Personal 
+"Main" Repository --> https://o10x.github.io/Main
+
+# Affilate Links 
+(I get free days, and in the case of Torbox.App you get bonus days subscribing threw these links)
+
+Real-Debrid
+http://real-debrid.com/?id=3366841
+
+Torbox.app
+https://torbox.app/subscription?referral=4be30ad0-df54-4034-a1c9-7800dc998946
