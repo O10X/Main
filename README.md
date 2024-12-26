@@ -4,7 +4,7 @@ This File Repository has Two Main Purposes
 1) Making my Life Easier; Have all the files I might require when Configuring a New Kodi Installation
 2) For Freinds and Family to Reference, to repair there own setups (IE Fen Quits working, but umbrella is still working.. I can reference this so they can Install Umbrella when I'm too busy (or don't want to) walk them threw configuring it over the phone(and if you have ever given a github address over the phone, you will understand)
 
-In Some Cases I have both the Repository and the Plugin zip file listed, you should always use the Repository unless I tell you differently or the Repository doesn't connect.. if you install the Add-on zip directly it will not auto-update (unless they have there own updater built in (fen-lite) for example
+In Some Cases I have both the Repository and the Plugin zip file listed, you should always use the Repository unless I tell you differently(Unless Repository doesn't connect/is Down).. if you install the Add-on zip directly it will not auto-update (with few exceptions (fen-lite)
 
 
 # Prepping Kodi/Fresh Install
