@@ -43,7 +43,7 @@ Personal
 
 
 # Affilate Links 
-(I get free days, and in the case of Torbox.App you get bonus days subscribing threw these links)
+***I get free days, and in the case of Torbox.App you get bonus days subscribing threw these links***
 
 Real-Debrid
 http://real-debrid.com/?id=3366841
