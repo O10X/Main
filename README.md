@@ -17,7 +17,7 @@ Torbox.app Referral  Link
 https://torbox.app/subscription?referral=4be30ad0-df54-4034-a1c9-7800dc998946
 
 
-#How To Install Fen-Lite
+# How To Install Fen-Lite
 1) If you haven't installed Any Add-ons for Kodi.. Start Here Otherwise Skip to Step 3
 2) Go to Settings(Cog Wheel) --> System --> Add-ons --> Enable Unknown Sources .. Exit to Settings(back)
 3) if your not in settings select the cog wheel --> File Manager --> add source --> Enter https://o10x.github.io/Main (case sensitive) .. Leave Main as the Title and Select OK then Return to Settings
