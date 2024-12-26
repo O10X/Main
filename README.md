@@ -15,6 +15,7 @@ If you haven't Done Anything in Kodi, Start Here
 4) File Manager-- > Add source --> Enter https://o10x.github.io/Main
 
 Optional (Needed for Fen, Fen-lite, Umbrella and others)
+
 5) Addons --> Install from Zip File --> Main --> repository.cocoscrapers-x.x.x.zip
 6) Install from Repository --> Cocoscrapers Repository --> Program Addons --> Cocoscrapers Module
 
