@@ -1,3 +1,5 @@
+# Prepping Kodi/Fresh Install
+
 If you haven't Done Anything in Kodi, Start Here
 
 Enter Settings (Cog Wheel)
