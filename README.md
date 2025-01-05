@@ -6,22 +6,12 @@ This File Repository has Two Main Purposes
 
 In Some Cases I have both the Repository and the Plugin zip file listed, you should always use the Repository unless I tell you differently(Unless Repository doesn't connect/is Down).. if you install the Add-on zip directly it will not auto-update (with few exceptions (fen-lite)
 
+# Getting Started - Firestick (Streamio + Kodi)
+1) Jailbreaking and Installing the Applications
 
-
-# Prepping Kodi/Fresh Install
-If you haven't Done Anything in Kodi, Start Here
-1) Enter Settings (Cog Wheel)
-2) Player --> Language Adjust Prefered Audio language and Prefered subtitle language ..
-3) System --> Add-ons --> Enable Unknown sources
-4) File Manager-- > Add source --> Enter https://o10x.github.io/Main
-
-Optional (Needed for Fen, Fen-lite, Umbrella and others)
-
-5) Addons --> Install from Zip File --> Main --> repository.cocoscrapers-x.x.x.zip
-6) Install from Repository --> Cocoscrapers Repository --> Program Addons --> Cocoscrapers Module
-
-# Installing Fen or Fen-lite
-https://github.com/O10X/Main/blob/main/Instructions/Fen%20%2B%20Fen%20Light%20install.md
+# Getting Started with Kodi
+1) Prepping Kodi/Fresh Install - https://github.com/O10X/Main/blob/main/Instructions/Prepping%20Kodi.md
+2) Installing Fen or Fen-lite - https://github.com/O10X/Main/blob/main/Instructions/Fen%20%2B%20Fen%20Light%20install.md
 
 
 
