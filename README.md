@@ -7,6 +7,9 @@ This File Repository has Two Main Purposes
 In Some Cases I have both the Repository and the Plugin zip file listed, you should always use the Repository unless I tell you differently(Unless Repository doesn't connect/is Down).. if you install the Add-on zip directly it will not auto-update (with few exceptions (fen-lite)
 
 
+# Installing Fen or Fen-lite
+https://github.com/O10X/Main/blob/main/Instructions/Fen%20%2B%20Fen%20Light%20install.md
+
 # Prepping Kodi/Fresh Install
 If you haven't Done Anything in Kodi, Start Here
 1) Enter Settings (Cog Wheel)
