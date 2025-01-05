@@ -7,8 +7,6 @@ This File Repository has Two Main Purposes
 In Some Cases I have both the Repository and the Plugin zip file listed, you should always use the Repository unless I tell you differently(Unless Repository doesn't connect/is Down).. if you install the Add-on zip directly it will not auto-update (with few exceptions (fen-lite)
 
 
-# Installing Fen or Fen-lite
-https://github.com/O10X/Main/blob/main/Instructions/Fen + Fen Light install.md
 
 # Prepping Kodi/Fresh Install
 If you haven't Done Anything in Kodi, Start Here
@@ -22,23 +20,10 @@ Optional (Needed for Fen, Fen-lite, Umbrella and others)
 5) Addons --> Install from Zip File --> Main --> repository.cocoscrapers-x.x.x.zip
 6) Install from Repository --> Cocoscrapers Repository --> Program Addons --> Cocoscrapers Module
 
-
-# How To Install Fen-Lite (Real-Debrid and Torbox.App Supported)
-*** The Authour of this Add-on Has Retired(or keeps saying he is), this is probably the Last Version ***
-1) Enter Settings (Cog Wheel)
-2) Addons --> Install from Zip File --> Main --> plugin.video.fenlight-x.x.xx.zip
-3) Return to main screen (back buttion) Add-ons --> Fen Lite --> Tools --> Settings --> Accounts --> External Scrapers (Enable)
-8) Choose External Scrapers Module ---> Cocoscrapers Module
-9) Enable and Connect your Debrid Provider (ie Real-Debrid)
+# Installing Fen or Fen-lite
+https://github.com/O10X/Main/blob/main/Instructions/Fen%20%2B%20Fen%20Light%20install.md
 
 
-# How To Install Fen (Real-Debrid Supported)
-*** The Authour of this Add-on Has Retired(or keeps saying he is), this is probably the Last Version ***
-1) Enter Settings (Cog Wheel)
-2) Addons --> Install from Zip File --> Main --> plugin.video.fen-x.x.xx.zip
-3) Return to main screen (back buttion) Add-ons --> Fen --> Tools --> Settings --> Accounts --> External Scrapers (Enable)
-8) Choose External Scrapers Module ---> Cocoscrapers Module
-9) Enable and Connect your Debrid Provider (ie Real-Debrid)
 
 # Repository Links (Offical + Personal/Forks)
 Personal 
