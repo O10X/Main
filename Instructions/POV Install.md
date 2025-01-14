@@ -1,27 +1,7 @@
-# Setting UP POV
-1) Now that Kodi is installed and configured, let’s install POV.
-2) Press the cog icon near the top left corner of the Home Screen.
-3) Go back to the Settings menu and select Add-ons.
-4) 
-Click on Install from zip file.
-
-Select kodifitzwell.
-
-Click on repository.kodifitzwell-x.x.x.zip to download the Repository.
-
-Select Install from Repository.
-
-Press kodifitzwell Repository.
-
-Select Video add-ons.
-
-Click on POV.
-
-Press the Install button.
-
-POV is now installed.
-
-===============
+# Setting UP POV (Torbox and Realdebrid)
+1)Enter Settings (Cog Wheel)
+2)Addons --> Install from Zip File --> Main --> repository.kodifitzwell-x.x.x.zip
+3)Addons --> Install from Repository --> kodifitzwell Repository --> Video add-ons --> POV --> Install
 
 Now that POV is installed, let’s Authorize and configure Real Debrid.
 
