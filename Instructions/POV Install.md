@@ -1,17 +1,8 @@
 # Setting UP POV
-
-Now that Kodi is installed and configured, let’s install POV.
-
-Press the cog icon near the top left corner of the Home Screen.
-
-Select File Manager.
-
-Press Add Source.
-
-Enter https://kodiyashimaru.github.io/repo in the top box and kodifitzwell on the bottom one. Press OK to add the source.
-
-Go back to the Settings menu and select Add-ons.
-
+1) Now that Kodi is installed and configured, let’s install POV.
+2) Press the cog icon near the top left corner of the Home Screen.
+3) Go back to the Settings menu and select Add-ons.
+4) 
 Click on Install from zip file.
 
 Select kodifitzwell.
