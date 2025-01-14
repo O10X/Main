@@ -12,6 +12,7 @@ In Some Cases I have both the Repository and the Plugin zip file listed, you sho
 # Getting Started with Kodi
 1) Prepping Kodi/Fresh Install - https://github.com/O10X/Main/blob/main/Instructions/Prepping%20Kodi.md
 2) Installing Fen or Fen-lite - https://github.com/O10X/Main/blob/main/Instructions/Fen%20%2B%20Fen%20Light%20install.md
+3) Installing POV - https://github.com/O10X/Main/blob/main/Instruction/POV%Install.md
 
 
 
